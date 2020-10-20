@@ -1,0 +1,25 @@
+.font-size-13
+{
+	font-size: 13px;
+}
+.font-size-16
+{
+	font-size: 16px;
+}
+#client
+{
+	background: #B3B6BB;
+}
+#client .coffee-top
+{
+	overflow: hidden;
+}
+#client img:hover
+{
+	transform: scale(1.2);
+	transition : transform 1.5s ease;
+}
+.btn
+{
+	background-color: #D53633;
+}
